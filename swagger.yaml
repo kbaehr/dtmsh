@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  version: '1.0'
+  version: '1.1'
   title: "testapi_ms"
   description: Polls is a simple API allowing consumers to view polls and vote in them. change.
   license:
